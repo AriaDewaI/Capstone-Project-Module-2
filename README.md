@@ -1,1 +1,6 @@
-# Capstone-Project-Module-2
+## Capstone Project Module 2 Supermarket Customers
+### Nama : Aria Dewa Indrapratama
+
+    Project ini dilakukan untuk menganalisis sebuah dataframe "Supermarket Customers" yang bertujuan untuk mendapatkan statistik yang dapat membantu supermarket lebih mengenali demografi customernya dan dapat mengambil keputusan yang nantinya bisa bermanfaat untuk kepentingan supermarket itu sendiri.
+
+    Analisis data dilakukan didalam jupyter notebook dan tableu. Analysis yang dilakukan didalam jupyter notebook antara lain adalah pengenalan data yang dilakukan dengan graph didalam jupyter notebook, konversi format data yang tidak cocok, pembersihan data dari outlier yang ada didalam data, memahami jenis distribusi data, dan juga mencari statistik deskriptif atau inferensial dari data yang sudah diproses. Analisis yang dilakukan didalam Tableau antara lain adalah pembuatan calculatied fields yang dapat membantu proses pembuatan grafik data, pembuatan grafik data dalam worksheet yang dapat membantu mempresentasikan isi data ataupun perbandingan antara data, pembuatan dashboard yang dapat mengumpulkan grafik yang sudah dibuat, dan juga pembuatan story yang bisa menjelaskan data dalam grafik secara runtut dan jelas agar bisa membantu pihak supermarket untuk mengambil keputusan.   
